@@ -89,10 +89,10 @@ def kk() :
 
     k = "phy"
     k = "chem"
-    m = "elective"
+    m = "math"
     y = "phy"
     x = "Eng"
-    u = "cs"
+    u = "elective"
     class11 = {1: [], 2: [], 3: [], 4: [], 5: [], 6: []}
     for j in range(1, 7):
         for i in range(6):
